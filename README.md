@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0875-koko-eating-bananas](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Newton's Method
 |  |
 | ------- |
@@ -18,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-koko-eating-bananas](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 <!---LeetCode Topics End-->
