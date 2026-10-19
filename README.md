@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
