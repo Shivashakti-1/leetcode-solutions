@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
