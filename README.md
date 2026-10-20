@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -109,8 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
