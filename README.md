@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0901-online-stock-span) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
