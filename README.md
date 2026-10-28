@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0739-daily-temperatures](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0895-maximum-frequency-stack](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 ## Recursion
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
