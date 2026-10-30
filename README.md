@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Divide and Conquer
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -235,4 +238,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
