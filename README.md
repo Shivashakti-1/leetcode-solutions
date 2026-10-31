@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0046-permutations) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
