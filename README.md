@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
