@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Divide and Conquer
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0895-maximum-frequency-stack](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Sorting
 |  |
 | ------- |
@@ -271,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->
