@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Newton's Method
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1929-concatenation-of-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
