@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1882-process-tasks-using-servers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2747-count-zero-request-servers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1882-process-tasks-using-servers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
 |  |
