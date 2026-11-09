@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1267-count-servers-that-communicate](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1882-process-tasks-using-servers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Merge Sort
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
