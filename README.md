@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0895-maximum-frequency-stack](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [2747-count-zero-request-servers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 ## Segment Tree
 |  |
@@ -329,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
