@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0394-decode-string](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0394-decode-string) |
 | [0680-valid-palindrome-ii](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
