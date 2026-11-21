@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0895-maximum-frequency-stack](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0895-maximum-frequency-stack) |
 | [2747-count-zero-request-servers](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Recursion
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Shivashakti-1/leetcode-solutions/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
